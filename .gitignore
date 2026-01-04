@@ -1,0 +1,25 @@
+# .gitignore
+
+# 1. Generated Data (The Junk)
+*.mp3
+*.wav
+*.m4a
+*.png
+*.jpg
+*.html
+*.pdf
+temp_audio.*
+
+# 2. Python System Files
+__pycache__/
+*.pyc
+venv/
+.env
+
+# 3. Streamlit specific
+.streamlit/secrets.toml
+
+# 4. Ignore other scripts if you don't want them
+app_demo.py
+check_key.py
+check_models.py

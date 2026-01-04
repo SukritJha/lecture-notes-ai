@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+yt-dlp
+google-generativeai
+fpdf
+streamlit-markmap
+groq
+torch
+numpy
