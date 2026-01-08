@@ -17,16 +17,6 @@ It eliminates passive learning by transforming lectures into **active recall mat
 
 ---
 
-## 📸 Interface Preview
-
-*(Upload your screenshots to an 'assets' folder and link them here)*
-
-| **Dashboard & Analysis** | **Interactive Mind Map** |
-|:---:|:---:|
-| <img src="https://via.placeholder.com/400x200?text=Dashboard+Screenshot" width="100%"> | <img src="https://via.placeholder.com/400x200?text=Mind+Map+Screenshot" width="100%"> |
-
----
-
 ## ⚡ Key Features
 
 - **Multi-Source Input**
