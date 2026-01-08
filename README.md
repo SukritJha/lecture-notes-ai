@@ -86,7 +86,7 @@ git clone https://github.com/YOUR_USERNAME/AI-Lecture-Assistant.git
 cd AI-Lecture-Assistant
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ## ⚠️ Limitations
 
 - Free deployments may block YouTube downloads due to network restrictions
