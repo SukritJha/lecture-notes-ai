@@ -52,7 +52,7 @@ It eliminates passive learning by transforming lectures into **active recall mat
 - **Multilingual Support**
   - Auto-detects language and translates to English
 
-- ##  How It Works (System Flow)
+## 🧠 How It Works (System Flow)
 
 1. **Input Source**
    - YouTube lecture link or local audio/video file
