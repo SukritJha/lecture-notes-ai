@@ -6,7 +6,7 @@ import textwrap
 
 # --- CONFIGURATION (ENTER YOUR KEYS HERE) ---
 # Get Key: https://aistudio.google.com/app/apikey
-GEMINI_API_KEY = "AIzaSyAuW9DUfPGrZhjIAzlBuVtbTz5AdROIJ9g" 
+GEMINI_API_KEY = "ENTER YOUR KEYS HERE" 
 
 # Configure Gemini
 genai.configure(api_key=GEMINI_API_KEY)
